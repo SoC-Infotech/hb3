@@ -1,0 +1,1 @@
+Dynamite_frame. svg Attribution: cactus cowboy, CC0, via Wikimedia Commons
