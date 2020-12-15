@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Hello
+Goodbye
+Yes
+No
+EIT
+Jazz
+=======
+Hello
+Goodbye
+Yes
+No
+EIT
+Jazz
+>>>>>>> 93bec8bd6de38873cdd24d671adae4565eb88645
